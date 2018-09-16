@@ -1,0 +1,2 @@
+# PruebaTecnica
+1 - Realice una aplicación en MVC ASP.NET con C# que permita digitar personas desde un formulario y luego poder verlos en otra pantalla que sea un listado.  Tome en cuenta el siguiente objeto como la definición de una persona. Persona  {  string Nombre, // Máximo de 20 caracteres   int Edad,  int Sexo, }  - Extra  2- El sexo debe ser seleccionado desde un dropdown o select  3- Poder ver el detalle de una persona al dar click en su nombre desde el listado.   4- Poder editar una persona al dar click el un botón de editar desde el listado

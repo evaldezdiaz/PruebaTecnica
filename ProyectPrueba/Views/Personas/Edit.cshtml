@@ -30,10 +30,9 @@
             <div class="col-md-10">
                 @Html.DropDownList("Sexo", new List<SelectListItem>
 {
-   new SelectListItem{Text = "Masculino", Value = "Masculino"},
-   new SelectListItem{Text = "Femenino", Value = "Femenino"},
-
-})
+   new SelectListItem{Text = "Masculino", Value = "0"},
+   new SelectListItem{Text = "Femenino", Value = "1"},
+},new { @class="form-control"})
                 @Html.ValidationMessageFor(model => model.Sexo, "", new { @class = "text-danger" })
             </div>
         </div>

@@ -5,14 +5,14 @@ namespace ProyectPrueba.Migrations
     using System.Data.Entity.Migrations;
     using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<WebApiPrueba.Models.PersonaDbContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<ProyectPrueba.ProyectDbContext.PersonaDbContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = true;
         }
 
-        protected override void Seed(WebApiPrueba.Models.PersonaDbContext context)
+        protected override void Seed(ProyectPrueba.ProyectDbContext.PersonaDbContext context)
         {
             //  This method will be called after migrating to the latest version.
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProyectPrueba.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Data.Entity;
@@ -18,7 +19,7 @@ namespace WebApiPrueba.Models
         public String Nombre { get; set; }
 
         [Display(Name = "Sexo")]
-        public String Sexo { get; set; }
+        public SexoEnum Sexo { get; set; }
 
         [Range(1, 120,
             ErrorMessage = "La edad debe de ser mayor de 1 y menor que 120")]
@@ -26,20 +27,6 @@ namespace WebApiPrueba.Models
         
     }
     
-    class PersonaDbContext : DbContext
-    {
-        public PersonaDbContext() : base("PersonaContext")
-        {
-
-        }
-        public DbSet<Persona> Personas { get; set; }
-        
-
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
-
-        }
-    }
+  
 
 }

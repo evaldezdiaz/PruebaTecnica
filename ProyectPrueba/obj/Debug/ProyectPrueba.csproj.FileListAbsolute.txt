@@ -98,10 +98,6 @@ c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\Pr
 c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.csproj.CopyComplete
 c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.dll
 c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.pdb
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.prueba0003.resources
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.csproj.GenerateResource.cache
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.prueba0005.resources
 c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.csprojResolveAssemblyReference.cache
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.prueba0006.resources
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.prueba0007.resources
-c:\users\edgar valdez diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.prueba0008.resources
+C:\Users\Edgar Valdez Diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.Migrations.SecondMigration.resources
+C:\Users\Edgar Valdez Diaz\source\repos\ProyectPrueba\ProyectPrueba\obj\Debug\ProyectPrueba.csproj.GenerateResource.cache
